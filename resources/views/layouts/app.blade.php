@@ -7,7 +7,7 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>{{ config('app.name', 'Laravel') }}</title>
+    <title>{{ config('app.name', 'AidPedia') }}</title>
 
     <link rel="icon" type="image/x-icon" href="{{ asset('HomeTheme/assets/img/favicon.ico') }}" />
     <!-- Font Awesome icons (free version)-->

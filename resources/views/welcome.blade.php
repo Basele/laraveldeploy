@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    AidPedia
                 </div>
 
                 <div class="links">
